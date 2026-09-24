@@ -1,7 +1,7 @@
 ## Olá! sou Gustavo Gonçalves🖐
 
   
-📚 Atualmente estou estudando ADS no IFSP
+📚 Atualmente estou estudando ADS no IFSP<br>
 ✉ Entre em contato em: gustavoogg922@gmail.com
 ##
 <br>
