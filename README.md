@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá! sou Gustavo Gonçalves🖐
 
-<!--
-**Gustavo202021/Gustavo202021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Atualmente estou estudando ADS no IFSP
+✉ Entre em contato em: gustavoogg922@gmail.com
+##
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="display: flex; align-items: center; flex-wrap: nowrap;">
+  <img align="center" alt="Gustavo-Linux" height="60" width="80" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Gustavo-SO" height="60" width="80" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Gustavo-Arduino" height="60" width="80" src="icons/arduino/arduino-plain-wordmark.svg" />
+
+</div>
+  <br>
+  
+
+ 
+
+  ##
+  
